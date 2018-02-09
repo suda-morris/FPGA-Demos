@@ -1,0 +1,19 @@
+|counter
+clk => cnt[0].CLK
+clk => cnt[1].CLK
+clk => cnt[2].CLK
+clk => cnt[3].CLK
+en => cnt[0].ENA
+en => cnt[3].ENA
+en => cnt[2].ENA
+en => cnt[1].ENA
+nclr => cnt[0].ACLR
+nclr => cnt[1].ACLR
+nclr => cnt[2].ACLR
+nclr => cnt[3].ACLR
+countv[0] << cnt[0].DB_MAX_OUTPUT_PORT_TYPE
+countv[1] << cnt[1].DB_MAX_OUTPUT_PORT_TYPE
+countv[2] << cnt[2].DB_MAX_OUTPUT_PORT_TYPE
+countv[3] << cnt[3].DB_MAX_OUTPUT_PORT_TYPE
+
+

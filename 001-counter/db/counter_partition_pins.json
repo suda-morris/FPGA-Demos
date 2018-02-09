@@ -1,0 +1,37 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "countv[0]",
+					"strict" : false
+				},
+				{
+					"name" : "countv[1]",
+					"strict" : false
+				},
+				{
+					"name" : "countv[2]",
+					"strict" : false
+				},
+				{
+					"name" : "countv[3]",
+					"strict" : false
+				},
+				{
+					"name" : "en",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "nclr",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
