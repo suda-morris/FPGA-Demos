@@ -1,0 +1,18 @@
+Fitter Status : Successful - Sun Feb 11 11:46:41 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : led
+Top-level Entity Name : led
+Family : MAX 10
+Device : 10M50DAF484C7G
+Timing Models : Final
+Total logic elements : 59 / 49,760 ( < 1 % )
+    Total combinational functions : 58 / 49,760 ( < 1 % )
+    Dedicated logic registers : 42 / 49,760 ( < 1 % )
+Total registers : 42
+Total pins : 12 / 360 ( 3 % )
+Total virtual pins : 0
+Total memory bits : 0 / 1,677,312 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 288 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 2 ( 0 % )
