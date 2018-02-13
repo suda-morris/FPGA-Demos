@@ -1,0 +1,7 @@
+
+State Machine - |top|key_filter:key_filter0|state
+Name state.KEY_RELEASE state.KEY_STEADY state.KEY_PRESS state.KEY_IDLE 
+state.KEY_IDLE 0 0 0 0 
+state.KEY_PRESS 0 0 1 1 
+state.KEY_STEADY 0 1 0 1 
+state.KEY_RELEASE 1 0 0 1 

@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/FPGA-Demos/003-key_filter/simulation/modelsim
+vkey_filter
+Z1 !s110 1518513967
+!i10b 1
+!s100 ;jflHkVSnl9^2jZ?l1`?T0
+IcF;E?5TcG_mfjbL3l@MYo1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1518502867
+8E:/FPGA-Demos/003-key_filter/src/key_filter.v
+FE:/FPGA-Demos/003-key_filter/src/key_filter.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1518513967.000000
+!s107 E:/FPGA-Demos/003-key_filter/src/key_filter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/FPGA-Demos/003-key_filter/src|E:/FPGA-Demos/003-key_filter/src/key_filter.v|
+!i113 1
+Z5 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+E:/FPGA-Demos/003-key_filter/src
+Z6 tCvgOpt 0
+vkey_filter_tb
+R1
+!i10b 1
+!s100 HLHj_>W`XXdc>bW_fjOc]3
+ITNl;jzYg9XICHg?fNVV0B1
+R2
+R0
+w1518513875
+8E:/FPGA-Demos/003-key_filter/tb/key_filter_tb.v
+FE:/FPGA-Demos/003-key_filter/tb/key_filter_tb.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/FPGA-Demos/003-key_filter/tb/key_filter_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/FPGA-Demos/003-key_filter/tb|E:/FPGA-Demos/003-key_filter/tb/key_filter_tb.v|
+!i113 1
+R5
+Z7 !s92 -vlog01compat -work work +incdir+E:/FPGA-Demos/003-key_filter/tb
+R6
+vkey_model
+!s110 1518513968
+!i10b 1
+!s100 ^X_?zAGz?W]OhhRDbUQGj1
+IdbOec]2gX1UR<c<L;@5C41
+R2
+R0
+w1518513841
+8E:/FPGA-Demos/003-key_filter/tb/key_model.v
+FE:/FPGA-Demos/003-key_filter/tb/key_model.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1518513968.000000
+!s107 E:/FPGA-Demos/003-key_filter/tb/key_model.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/FPGA-Demos/003-key_filter/tb|E:/FPGA-Demos/003-key_filter/tb/key_model.v|
+!i113 1
+R5
+R7
+R6
